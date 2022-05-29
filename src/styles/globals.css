@@ -1,0 +1,8 @@
+body {
+    --color-bg: #202D36;
+    --color-bg-secondary: #ffffff;
+    --color-text: #ffffff;
+    font-family: 'Nunito Sans', sans-serif;
+    color: var(--color-text);
+    background-color: var(--color-bg);
+}
